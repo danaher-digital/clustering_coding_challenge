@@ -1,7 +1,23 @@
 clustering_coding_challenge
 ==============================
 
-Clustering coding challenge used in Danaher Digital hiring
+This coding challenge is used in Danaher Digital's recruiting process.  Data, code, and repository links may not be used or
+shared outside of this recruiting process.
+
+In the data/raw dictory are twelve data files.  Each file represents an experiment where a number of features of a system are 
+measured.  Each file has a large number of multi-dimensional data points.  The objective is to create one algorithm that will 
+cluster every file and maximize the correspondence of predicted cluster and labeled cluster for each data point.
+
+Notes:
+  - Each file represents an independent system
+  - Not all columns are available in all files
+  - Label numbers between different files do not correspond.  E.g., a label of '2' in file A does not means the same cluster 
+    as label '2' in file B.
+  - One algorithm should cluster all files
+
+Return your results as a separate GitHub repository.  Include all source code, notebooks, intermediary data, and so forth.
+
+Questions may be forwarded to the recruiter.  Candidates have one week to complete this challenge.
 
 Project Organization
 ------------
