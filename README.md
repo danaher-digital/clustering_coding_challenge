@@ -4,7 +4,7 @@ clustering_coding_challenge
 This coding challenge is used in Danaher Digital's recruiting process.  Data, code, and repository links may not be used or
 shared outside of this recruiting process.
 
-In the data/raw directory are twelve data files.  Each file represents an experiment where a number of features of a system are 
+In the data/raw directory are thirteen data files.  Each file represents an experiment where a number of features of a system are 
 measured.  Each file has a large number of multi-dimensional data points.  The objective is to create one algorithm that will 
 cluster every file and maximize the correspondence of predicted cluster and labeled cluster for each data point.
 
