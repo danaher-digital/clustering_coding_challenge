@@ -1,7 +1,7 @@
 clustering_coding_challenge
 ==============================
 
-This coding challenge is used in Danaher Digital's recruiting process.  Data, code, and repository links may not be used or
+This coding challenge is used in Danaher's recruiting process.  Data, code, and repository links may not be used or
 shared outside of this recruiting process.
 
 In the data/raw directory are thirteen data files.  Each file represents an experiment where a number of features of a system are 
@@ -15,7 +15,8 @@ Notes:
     as label '2' in file B.
   - One algorithm should cluster all files
 
-Return your results as a separate GitHub repository.  Include all source code, notebooks, intermediary data, and so forth.
+Note that there is no specific right or wrong answer, be sure to illustrate how you arrived at your solution.  Return your results 
+as a separate GitHub repository.  Include all source code, notebooks, intermediary data, and so forth.
 
 Questions may be forwarded to the recruiter.  Candidates have one week to complete this challenge.
 
